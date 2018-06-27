@@ -20,6 +20,10 @@ I've learn how to use Jasmine to write a number of tests against a pre-existing 
 * Writing effective tests requires analyzing multiple aspects of an application including the HTML, CSS and JavaScript - an extremely important skill when changing teams or joining a new company.
 * Good tests give you the ability to quickly analyze whether new code breaks an existing feature within your codebase, without having to manually test all of the functionality.
 
+## How to open my project in a browser?
+1. Download zip or clone
+2. Navigate to the root directory
+3. Open index.html
 
 # How did I complete this project?
 
